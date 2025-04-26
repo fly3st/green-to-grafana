@@ -36,4 +36,4 @@ This project fetches green building certification data from [data.gov.il](https:
 - Grafana
 - Docker & Docker Compose
 
-![screenshot](image.png)
+![screenshot](screenshot.png)
