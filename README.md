@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 
 **Data Source:**  
-[Israel Green Building Certifications Dataset](https://data.gov.il/dataset/green_building_certifications)
+[Israel Green Building Certifications Dataset](https://data.gov.il/dataset/greenbuildings/resource/7f467a30-58cd-44b5-86f0-d570cc7d25ad)
 
 
 This project fetches green building certification data from [data.gov.il](https://data.gov.il/), exposes it as custom Prometheus metrics, and visualizes it live in Grafana.
