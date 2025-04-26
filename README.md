@@ -1,5 +1,11 @@
 # Green Buildings Metrics Dashboard
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
+**Data Source:**  
+[Israel Green Building Certifications Dataset](https://data.gov.il/dataset/green_building_certifications)
+
+
 This project fetches green building certification data from [data.gov.il](https://data.gov.il/), exposes it as custom Prometheus metrics, and visualizes it live in Grafana.
 
 ## How to Run
@@ -36,4 +42,6 @@ This project fetches green building certification data from [data.gov.il](https:
 - Grafana
 - Docker & Docker Compose
 
-![screenshot](screenshot.png)
+<p align="center">
+  <img src="screenshot.png" alt="Dashboard Screenshot" width="700"/>
+</p>
